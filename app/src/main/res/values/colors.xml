@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="material_dynamic_neutral10">#121212</color>
+    <color name="material_dynamic_neutral50">#2C2C2C</color>
+
+
+    <color name="cardview_shadow_start_color">#B0BEC5</color>
+
+
+
+    <color name="noteBackgroundLight">#FFFFFF</color>
+
+
+    <color name="noteBackgroundDark">#2C2C2C</color>
+
+
+    <color name="noteStrokeLight">#7BFA96</color>
+
+
+    <color name="noteStrokeDark">#4A9A5A</color>
+
+    <color name="gray">#808080</color>
+    <color name="gray_light">#D3D3D3</color>
+    <color name="EditColorSolid">#050B12</color>
+    <color name="EditColorStroke">#051F2F</color>
+</resources>

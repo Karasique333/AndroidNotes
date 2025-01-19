@@ -1,0 +1,13 @@
+<resources>
+
+
+    <declare-styleable name="CustomTheme">
+        <attr name="noteBackgroundColor" format="color"/>
+        <attr name="noteStrokeColor" format="color"/>
+        <attr name="EditColorSolid" format="color"/>
+        <attr name="EditColorStroke" format="color"/>
+        <attr name="TextColor" format="color"/>
+        <attr name="Themeicon" format="reference"/>
+    </declare-styleable>
+
+</resources>
